@@ -58,6 +58,7 @@
 ## 🏅 Certifications
 
 - ✅ [Git & GitHub](https://github.com/Mohammadrezaj6/Mohammadrezaj6/blob/main/Certificates/github-certificate.jpeg)
+- ✅ [Html](https://github.com/Mohammadrezaj6/Mohammadrezaj6/blob/main/Certificates/certificate-html.jpg)
 - ✅ [Css](https://github.com/Mohammadrezaj6/Mohammadrezaj6/blob/main/Certificates/css-certificate.jpg)
 
 ---
