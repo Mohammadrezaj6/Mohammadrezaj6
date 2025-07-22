@@ -69,9 +69,9 @@
 - 🌐 [Website](https://webdsignr.ir/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohammadreza-j-27391a30a/)
 
-###
+---
 
 <p align="center">
   <img src="https://github.com/Mohammadrezaj6/Mohammadrezaj6/blob/main/images/pacman.svg" />
 </p>
-###
+
