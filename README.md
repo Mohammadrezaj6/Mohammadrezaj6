@@ -35,7 +35,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
   <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="Laravel logo"  />
-  <img src="https://skillicons.dev/icons?i=livewire" height="60" alt="Livewire logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
   <img src="https://skillicons.dev/icons?i=wordpress" height="60" alt="WordPress logo"  />
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML5 logo"  />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS3 logo"  />
