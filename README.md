@@ -72,6 +72,6 @@
 ###
 
 <p align="center">
-  <img src="https://github.com/Mohammadrezaj6/Mohammadrezaj6/blob/main/images/pacman.svg" width="300" />
+  <img src="https://github.com/Mohammadrezaj6/Mohammadrezaj6/blob/main/images/pacman.svg" />
 </p>
 ###
