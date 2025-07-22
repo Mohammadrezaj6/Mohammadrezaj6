@@ -32,20 +32,20 @@
 
 ---
 ## 🧰 Skills
-
-<img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
-<img src="https://skillicons.dev/icons?i=laravel" height="60" alt="Laravel logo"  />
-<img src="https://skillicons.dev/icons?i=livewire" height="60" alt="Livewire logo"  />
-<img src="https://skillicons.dev/icons?i=wordPress" height="60" alt="WordPress logo"  />
-<img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML5 logo"  />
-<img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS3 logo"  />
-<img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-<img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="Bootstrap logo"  />
-<img src="https://skillicons.dev/icons?i=mySQL" height="60" alt="MySQL logo"  />
-<img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-<img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
-<img src="https://skillicons.dev/icons?i=ps" height="60" alt="Photoshop logo"  />
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="Laravel logo"  />
+  <img src="https://skillicons.dev/icons?i=livewire" height="60" alt="Livewire logo"  />
+  <img src="https://skillicons.dev/icons?i=wordPress" height="60" alt="WordPress logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML5 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS3 logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="Bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=mySQL" height="60" alt="MySQL logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=ps" height="60" alt="Photoshop logo"  />
+</div>
 ---
 
 ## 📈 GitHub Stats
