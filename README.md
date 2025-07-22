@@ -34,16 +34,17 @@
 ## 🧰 Skills
 
 <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
-<img src="https://skillicons.dev/icons?i=Laravel" height="60" alt="Laravel logo"  />
-<img src="https://skillicons.dev/icons?i=Livewire" height="60" alt="Livewire logo"  />
-<img src="https://skillicons.dev/icons?i=WordPress" height="60" alt="WordPress logo"  />
-<img src="https://skillicons.dev/icons?i=HTML5" height="60" alt="HTML5 logo"  />
-<img src="https://skillicons.dev/icons?i=CSS3" height="60" alt="CSS3 logo"  />
+<img src="https://skillicons.dev/icons?i=laravel" height="60" alt="Laravel logo"  />
+<img src="https://skillicons.dev/icons?i=livewire" height="60" alt="Livewire logo"  />
+<img src="https://skillicons.dev/icons?i=wordPress" height="60" alt="WordPress logo"  />
+<img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML5 logo"  />
+<img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS3 logo"  />
 <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-<img src="https://skillicons.dev/icons?i=Bootstrap" height="60" alt="Bootstrap logo"  />
-<img src="https://skillicons.dev/icons?i=MySQL" height="60" alt="MySQL logo"  />
-<img src="https://skillicons.dev/icons?i=Git" height="60" alt="Git logo"  />
-<img src="https://skillicons.dev/icons?i=Photoshop" height="60" alt="Photoshop logo"  />
+<img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="Bootstrap logo"  />
+<img src="https://skillicons.dev/icons?i=mySQL" height="60" alt="MySQL logo"  />
+<img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+<img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+<img src="https://skillicons.dev/icons?i=ps" height="60" alt="Photoshop logo"  />
 
 ---
 
