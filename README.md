@@ -36,14 +36,14 @@
 <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
 <img src="https://skillicons.dev/icons?i=Laravel" height="60" alt="Laravel logo"  />
 <img src="https://skillicons.dev/icons?i=Livewire" height="60" alt="Livewire logo"  />
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=WordPress" height="60" alt="WordPress logo"  />
+<img src="https://skillicons.dev/icons?i=HTML5" height="60" alt="HTML5 logo"  />
+<img src="https://skillicons.dev/icons?i=CSS3" height="60" alt="CSS3 logo"  />
 <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
+<img src="https://skillicons.dev/icons?i=Bootstrap" height="60" alt="Bootstrap logo"  />
+<img src="https://skillicons.dev/icons?i=MySQL" height="60" alt="MySQL logo"  />
+<img src="https://skillicons.dev/icons?i=Git" height="60" alt="Git logo"  />
+<img src="https://skillicons.dev/icons?i=Photoshop" height="60" alt="Photoshop logo"  />
 
 ---
 
