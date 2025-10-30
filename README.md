@@ -45,6 +45,8 @@
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
   <img src="https://skillicons.dev/icons?i=ps" height="60" alt="Photoshop logo"  />
+  <img src="https://skillicons.dev/icons?i=phpstorm" height="60" alt="Phpstorm logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="Postman logo"  />
 </div>
 
 ## 📈 GitHub Stats
