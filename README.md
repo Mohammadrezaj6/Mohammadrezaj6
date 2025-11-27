@@ -65,6 +65,14 @@
   
 </div>
 
+![trophy](https://github-profile-trophy.vercel.app/?username=Mohammadrezaj6&theme=dark)
+
+![profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammadrezaj6&theme=dark)
+
+![readme stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mohammadrezaj6&theme=dark)
+
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadrezaj6&theme=dark)
+
 ---
 
 ## 🏅 Certifications
