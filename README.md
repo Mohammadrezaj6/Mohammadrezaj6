@@ -67,6 +67,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Mohammadrezaj6&theme=onedark" width="500">
 </p>
 
+<p align="center">
+  <img src="https://metrics.lecoq.io/Mohammadrezaj6?template=classic&base=header" width="500"/>
+</p>
+
 ---
 
 ## 🏅 Certifications
