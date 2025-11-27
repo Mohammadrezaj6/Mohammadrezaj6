@@ -64,7 +64,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohammadrezaj6&theme=onedark" width="500">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohammadrezaj6&theme=radical" width="500">
 </div>
 
 ---
