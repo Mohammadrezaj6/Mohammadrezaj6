@@ -30,7 +30,7 @@
   <i>PHP | Laravel | WordPress | Tailwind | Livewire</i>
 </p>
 
-<a align="center" href="https://www.coffeebede.com/mmdreza"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+<a align="center" width="300" href="https://www.coffeebede.com/mmdreza"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
 
 ---
 ## 🧰 Skills
