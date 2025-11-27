@@ -67,10 +67,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Mohammadrezaj6&theme=onedark" width="500">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mohammadrezaj6&theme=dark">
-</p>
-
 ---
 
 ## 🏅 Certifications
