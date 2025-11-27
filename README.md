@@ -59,7 +59,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Mohammadrezaj6&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
-<div align="center" width="300>
+<div align="center" width="300">
   ![GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammadrezaj6&theme=dark)
 </div>
 
