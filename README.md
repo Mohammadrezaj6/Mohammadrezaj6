@@ -61,7 +61,7 @@
 
 <div align="center">
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammadrezaj6&theme=radical" width="470" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammadrezaj6&show_icons=true&theme=radical" width="470" />
   
 </div>
 
