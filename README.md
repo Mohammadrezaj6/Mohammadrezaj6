@@ -56,16 +56,16 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammadrezaj6&show_icons=true&theme=radical" alt="GitHub stats" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammadrezaj6&show_icons=true&theme=dark" alt="GitHub stats" width="500"/>
 </p>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammadrezaj6&theme=radical" width="500" />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammadrezaj6&theme=dark" width="500" />
+</p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohammadrezaj6&theme=radical" width="500">
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohammadrezaj6&theme=dark" width="500">
+</p>
 
 ---
 
