@@ -65,14 +65,11 @@
   
 </div>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Mohammadrezaj6&theme=dark)
-
-![profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammadrezaj6&theme=dark)
-
-![readme stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mohammadrezaj6&theme=dark)
-
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadrezaj6&theme=dark)
-
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![](https://img.shields.io/badge/Deno-464647?style=for-the-badge&logo=deno&logoColor=white)
+![](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
+![](https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white)
 ---
 
 ## 🏅 Certifications
