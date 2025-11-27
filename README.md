@@ -68,7 +68,7 @@
 </p>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/Mohammadrezaj6?template=classic&base=header" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mohammadrezaj6&theme=dark">
 </p>
 
 ---
