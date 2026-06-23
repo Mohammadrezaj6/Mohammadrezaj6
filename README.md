@@ -44,7 +44,7 @@
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML5 logo"  />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS3 logo"  />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React logo"  />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="Bootstrap logo"  />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL logo"  />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
@@ -52,6 +52,7 @@
   <img src="https://skillicons.dev/icons?i=ps" height="60" alt="Photoshop logo"  />
   <img src="https://skillicons.dev/icons?i=phpstorm" height="60" alt="Phpstorm logo"  />
   <img src="https://skillicons.dev/icons?i=postman" height="60" alt="Postman logo"  />
+  <img src="https://skillicons.dev/icons?i=npm" height="60" alt="Npm logo"  />
 </div>
 
 ## 📈 GitHub Stats
